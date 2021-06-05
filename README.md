@@ -13,14 +13,14 @@ These labs and projects are created while I progress in the CIT Minor at the Uni
 ### Labs: 
 
 - [Lab 1](https://uo-cit-itsbread33.github.io/cit281-lab1/)
-- Lab 2:
-- Lab 3:
-- Lab 4:
-- Lab 5:
-- Lab 6:
-- Lab 7:
-- Lab 8:
-- Lab 9:
+- [Lab 2](https://uo-cit-itsbread33.github.io/cit281-lab2/)
+- [Lab 3](https://uo-cit-itsbread33.github.io/cit281-lab3/)
+- [Lab 4](https://uo-cit-itsbread33.github.io/cit281-lab4/)
+- [Lab 5](https://uo-cit-itsbread33.github.io/cit281-lab5/)
+- [Lab 6](https://uo-cit-itsbread33.github.io/cit281-lab6/)
+- [Lab 7](https://uo-cit-itsbread33.github.io/cit281-lab7/)
+- [Lab 8](https://uo-cit-itsbread33.github.io/cit281-lab8/)
+- [Lab 9](https://uo-cit-itsbread33.github.io/cit281-lab9/)
 
 ### Projects:
 
