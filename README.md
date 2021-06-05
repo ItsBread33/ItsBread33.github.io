@@ -24,13 +24,13 @@ These labs and projects are created while I progress in the CIT Minor at the Uni
 
 ### Projects:
 
-- Project 1:
-- Project 2:
-- Project 3:
-- Project 4:
-- Project 5:
-- Project 6:
-- Project 7: This is project 7
+- [Project 1](https://uo-cit-itsbread33.github.io/cit281-p1/)
+- [Project 2](https://uo-cit-itsbread33.github.io/cit281-p2/)
+- [Project 3](https://uo-cit-itsbread33.github.io/cit281-p3/)
+- [Project 4](https://uo-cit-itsbread33.github.io/cit281-p4/)
+- [Project 5](https://uo-cit-itsbread33.github.io/cit281-p5/)
+- [Project 6](https://uo-cit-itsbread33.github.io/cit281-p6/)
+- [Project 7](https://uo-cit-itsbread33.github.io/cit281-p7/)
 
 ## Cit 381:
 ## Cit 382:
