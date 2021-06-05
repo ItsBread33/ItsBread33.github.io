@@ -12,7 +12,7 @@ These labs and projects are created while I progress in the CIT Minor at the Uni
 
 ### Labs: 
 
-- Lab 1:
+- [Lab 1](https://uo-cit-itsbread33.github.io/cit281-lab1/)
 - Lab 2:
 - Lab 3:
 - Lab 4:
