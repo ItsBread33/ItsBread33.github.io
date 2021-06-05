@@ -30,11 +30,11 @@ These labs and projects are created while I progress in the CIT Minor at the Uni
 - Project 4:
 - Project 5:
 - Project 6:
-- Project 7: You're already here :D
+- Project 7: This is project 7
 
-## Cit 351:
-## Cit 352:
-## Cit 353:
+## Cit 381:
+## Cit 382:
+## Cit 383:
 
 
 ## Welcome to GitHub Pages
