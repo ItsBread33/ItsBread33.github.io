@@ -1,3 +1,38 @@
+# Welcome to my Github Page for the UO CIT Minor
+
+This page links to respositories for:
+- Cit 281
+- Cit 381
+- Cit 382
+- Cit 383
+
+These labs and projects are created while I progress in the CIT Minor at the University of Oregon.
+
+## Cit 281:
+
+### Labs: 
+
+- Lab 1:
+- Lab 2:
+- Lab 3:
+- Lab 4:
+- Lab 5:
+- Lab 6:
+- Lab 7:
+- Lab 8:
+- Lab 9:
+
+### Projects:
+
+- Project 1:
+- Project 2:
+- Project 3:
+- Project 4:
+- Project 5:
+- Project 6:
+- Project 7: You're already here :D
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ItsBread33/ItsBread33.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
